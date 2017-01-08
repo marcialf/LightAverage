@@ -1,0 +1,2 @@
+LightAverage	KEYWORD1
+lux	KEYWORD2
